@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Anton&family=Comforter+Brush&family=Dancing+Script:wght@600&family=Kanit:ital,wght@1,300&family=Merriweather:ital,wght@0,400;1,300;1,400&family=Noto+Sans:ital@1&family=Oswald:wght@300&family=Pacifico&family=Peralta&family=Permanent+Marker&family=Roboto+Mono&family=Rubik&family=Rubik+Distressed&family=Satisfy&family=Silkscreen&family=Sono&family=Source+Code+Pro:wght@600&family=Teko:wght@600&display=swap');
+.navbar-brand {
+    font-family: 'Merriweather', serif;
+}
+
+.nav-link {
+    font-family: 'Merriweather', serif;
+}
+
+
+#n1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+#n2 {
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+#n3 {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+#n4 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+
+#sha:hover{
+    box-shadow: 0px 0px 10px black;
+}
+
+#a1{
+    font-family: 'Rubik Distressed', cursive;
+}
+
+
